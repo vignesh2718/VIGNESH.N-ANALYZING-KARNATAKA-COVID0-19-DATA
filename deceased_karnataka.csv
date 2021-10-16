@@ -1,0 +1,19 @@
+0,District ,State P No ,Age In Years ,Sex ,Description ,Symptoms ,Co-Morbidities ,DOA ,DOD ,MB Date ,Notes,
+1,Bengaluru Urban ,5996,46,Male ,,,,18-06-2020,20-06-2020,20-06-2020,,
+2,Davangere ,7208,90,Male ,,,,13-06-2020,20-06-2020,20-06-2020,,
+3,Chikkamgaluru ,7778,72,Female ,,,,17-06-2020,18-06-2020,20-06-2020,,
+4,Udupi ,8338,54,Male ,,,,,19-06-2020,20-06-2020,Brought dead ,
+5,Bidar ,8423,51,Female ,,,,15-06-2020,19-06-2020,20-06-2020,,
+6,Bidar ,8424,65,Male ,,,,18-06-2020,18-06-2020,20-06-2020,,
+7,Bengaluru Urban ,8589,56,Male ,,,,17-06-2020,17-06-2020,20-06-2020,,
+8,Bengaluru Urban ,8599,39,Male ,,,,17-06-2020,18-06-2020,20-06-2020,,
+9,Others ,8648,66,Female ,,,,,19-06-2020,20-06-2020,Brought dead,
+10,Bengaluru Urban ,6553,53,F ,ILI ,Fever , Cold , Cough ,Thyroid disease ,10-06-2020,20-06-2020,21-06-2020
+11,Bengaluru Urban ,8872,62,M ,ILI ,Fever ,Diabetes Mellitus ,16-06-2020,16-06-2020,21-06-2020,,
+12,Bengaluru Urban ,8880,55,M ,SARI ,Pneumonia ," Respiratory distress Obese, Chronic Alcoholic  ",18-06-2020,20-06-2020,21-06-2020,,
+13,Bidar ,9149,70,M ,Contact of containment zone ,Loss of Appetite ," Weakness, Hypertension  ",18-06-2020,18-06-2020,21-06-2020,,
+14,Bidar ,9150,46,M ,Contact under tracing ,Weakness ," Convulsions, Hypertension  ",17-06-2020,18-06-2020,21-06-2020,,
+15,Ballari ,7732,60,Female ,ILI ,Fever , Cough , Breathlessness ,uncontrolled Diabetes Mellitus ,17-06-2020,22-06-2020,22-06-2020
+16,Ramanagar ,9237,90,M ,Contact under tracing ,Asymptomatic ,Hypertension ,,20-06-2020,22-06-2020,Died at his residence,
+17,Bengaluru Urban ,9276,45,Male ,SARI ,Fever , Cough , Breathlessness ,TB ,12-06-2020,15-06-2020,22-06-2020
+18,Bengaluru Urban ,9299,38,Female ,SARI ,Fever , Cough , Breathlessness ,Nil ,16-06-2020,17-06-2020,22-06-2020
